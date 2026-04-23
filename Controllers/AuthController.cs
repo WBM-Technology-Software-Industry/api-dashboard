@@ -1,6 +1,7 @@
 using Dashboard.Data;
 using Dashboard.Models;
-using Dashboard.Models.DTOs;
+using Dashboard.DTOs.Auth;
+using Dashboard.DTOs.Users;
 using Dashboard.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;

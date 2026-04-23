@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Dashboard.Models.DTOs;
+namespace Dashboard.DTOs.Users;
 
 /// <summary>
 /// DTO para atualização de usuário

@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Dashboard.Models.DTOs;
+namespace Dashboard.DTOs.Auth;
 
 /// <summary>
 /// DTO para requisição de registro de usuário
